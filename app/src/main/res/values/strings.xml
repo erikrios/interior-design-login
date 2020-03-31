@@ -3,4 +3,5 @@
     <string name="sign_in_to_continue">Sign In To Continue</string>
     <string name="email">Email</string>
     <string name="your_email">Your Email</string>
+    <string name="password">Password</string>
 </resources>
