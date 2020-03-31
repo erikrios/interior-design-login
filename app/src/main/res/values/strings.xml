@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">InteriorDesignLogin</string>
+    <string name="sign_in_to_continue">Sign In To Continue</string>
 </resources>
